@@ -1,3 +1,5 @@
 This is my file created for git
 
 I have created a branch and adding this new line.
+
+Added Line for Stashing
